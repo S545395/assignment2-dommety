@@ -38,4 +38,14 @@
 
 ---
 
+# Pithy Quotes
+
+> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go.<br>
+― *Dr. Seuss*
+
+> It is never too late to be what you might have been.
+― *George Eliot*
+
+---
+
 [Click here to see about me](https://github.com/S545395/assignment2-dommety/blob/main/AboutMe.md)
