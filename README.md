@@ -25,3 +25,5 @@
 * Appropriate cosmetics before going to beach like sunscreen lotions etc. 
 
 ---
+
+[Click here to see about me](https://github.com/S545395/assignment2-dommety/blob/main/AboutMe.md)
