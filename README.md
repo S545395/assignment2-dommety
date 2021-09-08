@@ -26,4 +26,16 @@
 
 ---
 
+# Beverages and food items
+  The following table shows the best food and drinks available in different locations near me at the best price.<br> Please refer to this table and choose what you want.
+
+   | Food/Drink   | Location  | Price |
+   | ----------   | --------  | ----- |
+   |   cappuccino | Starbucks |  2$   |
+   |   Oreo Shake | Mooyah    |  4$   |
+   |   Pizza      | Dominos   |  6$   |
+   |   Pad Thai   | bai tong  |  12$  |
+
+---
+
 [Click here to see about me](https://github.com/S545395/assignment2-dommety/blob/main/AboutMe.md)
