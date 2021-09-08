@@ -48,4 +48,23 @@
 
 ---
 
+# Geometry  Elementary/Polygons 
+> Using a given a set of ordered non-collinear points, a simple polygon can be formed and its shape is dependent on the sorting method used. To form such simple polygons with a given set of plane points, the points must first be ordered in one direction (typically, the x-axis is used). The first three points in the set are used to form an initial polygon. Based on the formed polygon, new polygons can be iteratively formed by inserting the first point of from among the remaining set of points, depending on line visibility from that point. This process is carried out until all the points are inserted into the polygon. In this study, we generated 20, 50, and 80 plane points and used the proposed method to construct polygons. 
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230342)
+
+```
+double area(const vector<point>& fig) {
+    double res = 0;
+    for (unsigned i = 0; i < fig.size(); i++) {
+        point p = i ? fig[i - 1] : fig.back();
+        point q = fig[i];
+        res += (p.x - q.x) * (p.y + q.y);
+    }
+    return fabs(res) / 2;
+}
+```
+
+[Source](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)
+
 [Click here to see about me](https://github.com/S545395/assignment2-dommety/blob/main/AboutMe.md)
