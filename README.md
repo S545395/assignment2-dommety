@@ -1,5 +1,5 @@
-# assignment2-dommety
-# Naga Sateesh Dommety
+# assignment2-Pattela
+# Rithesh Pattela
 ## My favourite place is Matahari Tulamben Resort, Bali
 <br> I really like **scuba diving** and matahari island is the most **amazing** place for providing most amazing diving spots
 
